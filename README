@@ -1,0 +1,36 @@
+# Exploratory Data Analysis (EDA) — Weather & Tourism
+
+Ce dossier contient l'analyse exploratoire des données météorologiques collectées pour le projet **Climat et Tourisme — Quand voyager ?**.
+
+## Contenu de l'analyse
+
+- **Chargement des données** (`pandas`)
+- **Nettoyage** :
+  - Vérification des valeurs manquantes
+  - Vérification des types de données
+- **Statistiques descriptives**
+- **Visualisations** :
+  - Histogrammes de température et d’humidité
+  - Boxplots par pays (filtrés sur un sous-ensemble)
+  - Matrice de corrélation
+  - Scatterplots humidité vs température
+  - Moyennes par pays
+
+## Librairies utilisées
+
+- `pandas`
+- `matplotlib`
+- `seaborn`
+
+## Objectif
+
+- Comprendre la structure des données
+- Identifier les relations entre les variables
+- Guider les choix de visualisations pour Looker Studio
+
+## Auteur
+
+Sheddy — 2025
+
+## Documentation
+https://docs.google.com/document/d/1wuZSvEM7YJSwVMbv-QulNEqW1MbsWItlYZOwiMUz0uY/edit?usp=sharing
